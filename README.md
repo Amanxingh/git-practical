@@ -5,3 +5,4 @@
 - GitHub
 - Linux
 Change → status → diff → add → commit → push
+This project is created for Git and GitHub practice.
