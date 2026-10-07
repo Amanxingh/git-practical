@@ -4,3 +4,4 @@
 - Git
 - GitHub
 - Linux
+Change → status → diff → add → commit → push
